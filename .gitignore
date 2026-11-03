@@ -1,0 +1,14 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore build logs
+dist/
+docs/.vitepress/cache
+
+# Vercel
+.vercel
+
+# Optional: VS Code files, Mac junk, etc.
+.vscode/
+.DS_Store
+
